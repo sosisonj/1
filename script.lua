@@ -157,7 +157,7 @@ local library = {
     pointers = {},
     settings = {
         guiname = "vovality",
-		title = "geomayka stop crying",
+		title = "slabousware",
 		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
         footer = "я курю говно",
         modal = true,
